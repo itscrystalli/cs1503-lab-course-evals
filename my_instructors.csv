@@ -1,0 +1,10 @@
+rank,ethnicity,gender,language,age,bty_avg,eval_categorical
+tenure track,minority,female,non-english,29,5,good
+tenured,not minority,male,english,57,8,bad
+tenured,minority,male,english,43,4,bad
+tenured,not minority,male,english,62,3.888,good
+teaching,minority,female,non-english,27,4,bad
+tenured,minority,male,non-english,52,4.833,good
+teaching,not minority,female,english,33,5,good
+tenured,minority,male,non-english,52,7,good
+tenured,minority,female,non-english,60,4.833,bad
